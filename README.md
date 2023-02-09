@@ -10,3 +10,9 @@ En esta aplicación web se muestra una lista de colaboradores a partir de datos 
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="40" height="40 "/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40 "/> 
 </div>
+<br><br><br>
+
+<img src="https://github.com/erlisrivas/Pizzeria-react/blob/master/pizzeriaimg.png" width="400">
+
+
+## [Ver aqui](https://colaboradores-five.vercel.app/)
