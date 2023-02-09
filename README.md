@@ -12,7 +12,7 @@ En esta aplicación web se muestra una lista de colaboradores a partir de datos 
 </div>
 <br><br><br>
 
-<img src="https://github.com/erlisrivas/Pizzeria-react/blob/master/pizzeriaimg.png" width="400">
+<img src="https://github.com/erlisrivas/desafio-BaseColaboradores/blob/master/colaboradores.png" width="400">
 
 
 ## [Ver aqui](https://colaboradores-five.vercel.app/)
